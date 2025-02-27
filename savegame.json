@@ -1,0 +1,23 @@
+{
+    "jy": {
+        "level": 1,
+        "exp": 0,
+        "health": 100,
+        "attack_power": 10,
+        "gold": 0
+    },
+    "vio": {
+        "level": 2,
+        "exp": 120,
+        "health": 120,
+        "attack_power": 25,
+        "gold": 10
+    },
+    "nb": {
+        "level": 14,
+        "exp": 240,
+        "health": 1280,
+        "attack_power": 120,
+        "gold": 170
+    }
+}
